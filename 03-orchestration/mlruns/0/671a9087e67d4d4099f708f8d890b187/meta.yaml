@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bechir/mlops-init/03-orchestration/mlruns/0/671a9087e67d4d4099f708f8d890b187/artifacts
+end_time: 1751994784798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 671a9087e67d4d4099f708f8d890b187
+run_name: caring-kite-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751994773212
+status: 4
+tags: []
+user_id: bechir

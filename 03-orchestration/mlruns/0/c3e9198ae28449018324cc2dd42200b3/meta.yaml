@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bechir/mlops-init/03-orchestration/mlruns/0/c3e9198ae28449018324cc2dd42200b3/artifacts
+end_time: 1751987691992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3e9198ae28449018324cc2dd42200b3
+run_name: dashing-hound-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751987676622
+status: 3
+tags: []
+user_id: bechir

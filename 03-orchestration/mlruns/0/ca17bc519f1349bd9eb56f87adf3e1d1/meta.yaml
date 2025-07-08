@@ -1,0 +1,14 @@
+artifact_uri: file:///home/bechir/mlops-init/03-orchestration/mlruns/0/ca17bc519f1349bd9eb56f87adf3e1d1/artifacts
+end_time: 1751987471459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca17bc519f1349bd9eb56f87adf3e1d1
+run_name: merciful-cub-704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751987456929
+status: 4
+tags: []
+user_id: bechir

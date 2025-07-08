@@ -1,0 +1,22 @@
+artifact_path: file:///home/bechir/mlops-init/03-orchestration/mlruns/0/models/m-30c45fb6556648daaf6268616ed89ec8/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.10.12
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.core.Booster
+    model_format: xgb
+    xgb_version: 3.0.2
+mlflow_version: 3.1.1
+model_id: m-30c45fb6556648daaf6268616ed89ec8
+model_size_bytes: 2712675
+model_uuid: m-30c45fb6556648daaf6268616ed89ec8
+prompts: null
+run_id: c3e9198ae28449018324cc2dd42200b3
+utc_time_created: '2025-07-08 15:14:48.501273'

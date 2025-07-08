@@ -1,0 +1,10 @@
+artifact_location: file:///home/bechir/mlops-init/03-orchestration/mlruns/0/models/m-30c45fb6556648daaf6268616ed89ec8/artifacts
+creation_timestamp: 1751987688494
+experiment_id: '0'
+last_updated_timestamp: 1751987691949
+model_id: m-30c45fb6556648daaf6268616ed89ec8
+model_type: null
+name: models_mlflow
+source_run_id: c3e9198ae28449018324cc2dd42200b3
+status: 2
+status_message: null
